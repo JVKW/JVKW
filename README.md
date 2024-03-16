@@ -3,7 +3,10 @@
 
 ## About Me
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=jvkw&label=Profile%20views&color=0e75b6&style=flat" alt="jvkw" /> </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=jvkw&label=Profile%20views&color=0e75b6&style=flat" alt="jvkw"/>
+  <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="brazil flag" align="center"></img>
+</p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 🔭 I’m currently working on: **Nothing**
@@ -46,7 +49,8 @@
 
 - ⚡ Fun fact: **The 'Graham's Number', the largest number ever used by humanity, is so colossal that if we attempted to represent it in a simple text file, it would require such an astronomical amount of memory that it would exceed millions and millions of yottabytes (1 yottabyte = 1,000,000,000,000,000,000 gigabytes).**
 
-<h3 align="left">Connect with me:</h3>
+## <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://codepen.io/joão victor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="joão victor" height="30" width="40" /></a>
 
