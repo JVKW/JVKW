@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm João Victor O.S</h1>
-<h3 align="center">A passionate frontend developer from Brazil 🌴</h3>
+<h3 align="center">"We can only see a little of the future, but enough to realize that there is much to do." ~ Alan Turing</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jvkw&label=Profile%20views&color=0e75b6&style=flat" alt="jvkw" /> </p>
+## About Me
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=jvkw&label=Profile%20views&color=0e75b6&style=flat" alt="jvkw" /> </p>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 🔭 I’m currently working on: **Nothing**
 
-- 🌱 I’m currently learning: **HTML - CSS**
+- 🌱 I’m currently learning:
+<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5 illustration" align="center"></img> -
+<img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS3 illustration" align="center"></img>
+
+<!--
 
 - 👯 I’m looking to collaborate on: **Nothing**
 
@@ -17,7 +24,23 @@
 
 - 💬 Ask me about: **[Nothing] ( I'm antisocial ) <3**
 
-- 📫 How to reach me **joaovictor.os064@gmail.com**
+-->
+
+- 📫 You can reach me at: ⤵️
+<p align="center">
+  <a href="mailto:joaovictor.os064@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-oliveira-santos/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://wa.me/558898252461" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <!--
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  -->
+</p>
 
 - 📄 Know about my experiences: [Nothing here](Nothing here)
 
