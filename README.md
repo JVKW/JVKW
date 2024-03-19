@@ -1,17 +1,30 @@
-<h1 align="center">Hi 👋, I'm João Victor O.S</h1>
-<h3 align="center">"We can only see a little of the future, but enough to realize that there is much to do." ~ Alan Turing</h3>
+<h1 align="center">👋 Heyoo!! João Victor O.S</h1>
+<h3 align="center"><i>"We can only see a little of the future, but enough to realize that there is much to do." ~ <a href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing</a></i></h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Alan_Turing_az_1930-as_%C3%A9vekben.jpg/640px-Alan_Turing_az_1930-as_%C3%A9vekben.jpg" alt="Alan Turing Image" title="Alan Turing Image" width="200">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jvkw&label=Profile%20views&color=0e75b6&style=flat" alt="jvkw" align="center"> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="brazil flag" align="center">
+</p>
 
 ## About Me
 
+👋 Hello everyone! Nice to meet you! My name is João Victor Oliveira Santos and I am a technology enthusiast currently enrolled at the <a href="https://ifce.edu.br/">Instituto Federal do Ceará (IFCE)</a>.
+
+💡 I am driven by curiosity and am constantly learning, looking for ways to explore and expand my skills to create technological solutions that can improve people's daily lives.
+
+🌟 I have some experience in Python and HTML, and recently started venturing into the world of web development with JavaScript. I am also exploring Database concepts using the ER (Entity and Relationship) model and starting my studies in SQL modeling.
+
+🚀 I look forward to taking on new challenges and learning more every day as I continue my journey in the world of technology. Let’s explore new possibilities together and turn ideas into reality!
+
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=jvkw&label=Profile%20views&color=0e75b6&style=flat" alt="jvkw"/>
-  <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="brazil flag" align="center"></img>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" width="400px" align="right">
 </p>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration of a computer" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🔭 I’m currently working on: **Nothing**
+- 🔭 <b>I’m currently working on:</b> Nothing
 
-- 🌱 I’m currently learning:
+- 🌱 <b>I’m currently learning:</b>
 <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5 illustration" align="center"></img> -
 <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS3 illustration" align="center"></img>
 
@@ -29,7 +42,7 @@
 
 -->
 
-- 📫 You can reach me at: ⤵️
+- 📫 <b>You can reach me at:</b> ⤵️
 <p align="center">
   <a href="mailto:joaovictor.os064@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
@@ -45,9 +58,10 @@
   -->
 </p>
 
-- 📄 Know about my experiences: [Nothing here](Nothing here)
+- <b>📄 Know about my experiences:</b> [Nothing here](Nothing here)
 
-- ⚡ Fun fact: **The 'Graham's Number', the largest number ever used by humanity, is so colossal that if we attempted to represent it in a simple text file, it would require such an astronomical amount of memory that it would exceed millions and millions of yottabytes (1 yottabyte = 1,000,000,000,000,000,000 gigabytes).**
+- <b>⚡ Fun fact:</b>
+_The 'Graham's Number', the largest number ever used by humanity, is so colossal that if we attempted to represent it in a simple text file, it would require such an astronomical amount of memory that it would exceed millions and millions of yottabytes (1 yottabyte = 1,000,000,000,000,000,000 gigabytes)._
 
 ## <h3 align="left">Connect with me:</h3>
 
