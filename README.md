@@ -1,16 +1,24 @@
-<h1 align="center">👋 Heyoo!! João Victor O.S</h1>
-<h3 align="center"><i>"We can only see a little of the future, but enough to realize that there is much to do." ~ <a href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing</a></i></h3>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Alan_Turing_az_1930-as_%C3%A9vekben.jpg/640px-Alan_Turing_az_1930-as_%C3%A9vekben.jpg" alt="Alan Turing Image" title="Alan Turing Image" width="200">
-</p>
+<h1 align="center">💖​~ Heyoo!! Welcome to my profile! ~ 💖​</h1>
+
+<div align="center">
+  <div>
+    <i>
+      <p>Bits dance in the symphony of code,<p>
+      <p>Algorithms dance in sync,</p>
+      <p>In the digital ether, the world is a plot,</p>
+      <p>Where bytes weave our fantasy. ~</p>
+    </i>
+  </div>
+  <img src="./images/banner-top.gif" alt='Top Banner'></img>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jvkw&label=Profile%20views&color=0e75b6&style=flat" alt="jvkw" align="center"> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png" alt="brazil flag" align="center">
 </p>
 
-## About Me
+## 🐺 ~ About Me ~ 🐺
 
-👋 Hello everyone! Nice to meet you! My name is João Victor Oliveira Santos and I am a technology enthusiast currently enrolled at the <a href="https://ifce.edu.br/">Instituto Federal do Ceará (IFCE)</a>.
+👋 Hello everyone! Nice to meet you! My name is João Victor and I am a technology enthusiast currently enrolled at the <a href="https://ifce.edu.br/">Instituto Federal do Ceará (IFCE)</a>.
 
 💡 I am driven by curiosity and am constantly learning, looking for ways to explore and expand my skills to create technological solutions that can improve people's daily lives.
 
@@ -43,6 +51,7 @@
 -->
 
 - 📫 <b>You can reach me at:</b> ⤵️
+
 <p align="center">
   <a href="mailto:joaovictor.os064@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
@@ -72,3 +81,16 @@ _The 'Graham's Number', the largest number ever used by humanity, is so colossal
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvkw&show_icons=true&locale=en" alt="jvkw" /></p>
+
+#
+
+<div align="center">
+  <h3 align="center">
+    <i>"We can only see a little of the future, but enough to realize that there is much to do." ~ <a href="https://en.wikipedia.org/wiki/Alan_Turing">Alan Turing</a></i>
+  </h3>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Alan_Turing_az_1930-as_%C3%A9vekben.jpg/640px-Alan_Turing_az_1930-as_%C3%A9vekben.jpg" alt="Alan Turing Image" title="Alan Turing Image" width="200">
+</div>
+
+#
+
+<img src='./images/banner-bottom.gif' alt='Bottom Banner'></img>
