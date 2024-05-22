@@ -101,13 +101,20 @@ _The 'Graham's Number', the largest number ever used by humanity, is so colossal
 
 <h3 align="center">📃 My Setup: 📃</h3>
 
-| **Components**   | **Specifications**          |
-|------------------|-----------------------------|
-| Processor (CPU)  | Intel Celeron 3865U         |
-| Motherboard      | SAMSUNG ELETRONICS CO. LTD. |
-| Memory (RAM)     | 4GB DDR4                    |
-| Video Card (GPU) |                             |
-| Storage (HDD)    | 500GB                       |
+<div align='center' style="display: flex; flex-direction; column; align-items: center; justify-content: center;">
+
+| **Components**   | **Specifications**                |
+|------------------|-----------------------------------|
+| Processor (CPU)  | Intel(R) Celeron(R) 4205U 1.80GHz |
+| Motherboard      | SAMSUNG ELETRONICS CO. LTD.       |
+| Video Card (GPU) | Intel UHD Graphics 610            |
+| Memory (RAM)     | 4GB DDR4                          |
+| Storage (HDD)    | 500GB                             |
+| Operating System | Windows 10                        |
+
+<img src='./images/comp-perifer.png' alt='Computer Image' style='max-width: 350px; height: auto; width: auto; margin-left: 10px; border-radius: 10%'>
+
+</div>
 
 <div align="center">
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvkw&show_icons=true&locale=en" alt="jvkw">
@@ -121,7 +128,5 @@ _The 'Graham's Number', the largest number ever used by humanity, is so colossal
   </h3>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Alan_Turing_az_1930-as_%C3%A9vekben.jpg/640px-Alan_Turing_az_1930-as_%C3%A9vekben.jpg" alt="Alan Turing Image" title="Alan Turing Image" width="200">
 </div>
-
-#
 
 <img src='./images/banner-bottom.gif' alt='Bottom Banner'></img>
