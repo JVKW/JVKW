@@ -120,12 +120,17 @@
 | Storage (HDD)    | 500GB                             |
 | Operating System | Windows 10                        |
 
+_I suffer_
+
+<!--
 <img src="./images/comp-perifer.png" alt="Computer Image" style=" width: auto; height: auto; max-width: 350px; max-height: 350px; margin-left: 10px; border-radius: 10%">
 </div>
-
-## ~ 📊 GitHub & User Stats ~ 📊
+-->
 
 <div align="center">
+  <h3 align="center">
+    📊 GitHub & User Stats ~ 📊
+  </h3>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvkw&show_icons=true&locale=en" alt="jvkw">
 </div>
 
